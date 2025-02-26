@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ida1hzmtv-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/ida1hzmtv-go-gitops
